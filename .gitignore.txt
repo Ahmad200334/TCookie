@@ -1,2 +1,0 @@
-# hide all files thats end with txt 
-*.txt
